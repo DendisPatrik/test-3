@@ -1,2 +1,4 @@
 print("Ahoj svet")
-print("Ahoj nove zmeny")
+vysledok = 2 + 2
+vysledok = vysledok + 3
+print(vysledok)
